@@ -71,6 +71,6 @@
         </executions>
       </plugin>
     </plugins>
-nan  </build>
+  </build>
 </project>
 
